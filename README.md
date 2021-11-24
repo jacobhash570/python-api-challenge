@@ -52,10 +52,10 @@
 
 ## Humidity Heatmap
 
-![alt text](https://github.com/jacobhash570/python-api-challenge/blob/main/map%20(1).png)
+![alt text](https://github.com/jacobhash570/python-api-challenge/blob/main/Images/map%20(1).png)
 
 ## Hotel Map
 
-![alt text](https://github.com/jacobhash570/python-api-challenge/blob/main/map.png)
+![alt text](https://github.com/jacobhash570/python-api-challenge/blob/main/Images/map.png)
 
 
