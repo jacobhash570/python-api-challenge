@@ -1,5 +1,7 @@
 # Python API Challenge
 
+## Description of observations in notebook
+
 ## Latitude vs. Temperature Plot
 
 ![alt text](https://github.com/jacobhash570/python-api-challenge/blob/main/WeatherPy/ouput_data/Lat_v_Temp.png)
